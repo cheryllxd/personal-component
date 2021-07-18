@@ -12,7 +12,7 @@
 
 
 
-### Project setup
+## 安装依赖
 
 ```
 npm install
@@ -32,7 +32,7 @@ npm run build-pkg
 ```
 npm run lint
 ```
-### publish
+### 发布
 ```
 npm publish --access public
 ```
